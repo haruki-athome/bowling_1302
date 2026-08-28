@@ -13,6 +13,8 @@ GameObject:
   - component: {fileID: 6436830007924806308}
   - component: {fileID: 8994616425661416933}
   - component: {fileID: 1413593498595298850}
+  - component: {fileID: 4746512058973603456}
+  - component: {fileID: 1295249304650409188}
   m_Layer: 0
   m_Name: Pin
   m_TagString: Untagged
@@ -142,3 +144,27 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &4746512058973603456
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1833543190585738465}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1cbb756f725534f80cff87f3972913, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Pin
+--- !u!114 &1295249304650409188
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1833543190585738465}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1cbb756f725534f80cff87f3972913, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Pin
